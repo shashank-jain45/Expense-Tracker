@@ -1,6 +1,4 @@
-# IRIS-Assignment
-I have added the charts to display amount spent on a day within a week
-I have implemented everything taught in bootcamp except bloc
+A simple Transaction app that let's users add their daily expenses and see of a record of total expense in a week with week-wise distribution
 
 ![Screenshot_1678503866](https://user-images.githubusercontent.com/120735507/224461755-16f5a6d8-d344-4c0f-b5bf-d5e14a789888.png)
 ![Screenshot_1678503871](https://user-images.githubusercontent.com/120735507/224461759-e01e0c22-d62a-47cf-99ce-138df4626304.png)
